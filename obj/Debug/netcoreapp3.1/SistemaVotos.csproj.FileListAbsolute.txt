@@ -1,0 +1,14 @@
+C:\Users\lucas\source\repos\SistemaVotos\bin\Debug\netcoreapp3.1\SistemaVotos.exe
+C:\Users\lucas\source\repos\SistemaVotos\bin\Debug\netcoreapp3.1\SistemaVotos.deps.json
+C:\Users\lucas\source\repos\SistemaVotos\bin\Debug\netcoreapp3.1\SistemaVotos.runtimeconfig.json
+C:\Users\lucas\source\repos\SistemaVotos\bin\Debug\netcoreapp3.1\SistemaVotos.runtimeconfig.dev.json
+C:\Users\lucas\source\repos\SistemaVotos\bin\Debug\netcoreapp3.1\SistemaVotos.dll
+C:\Users\lucas\source\repos\SistemaVotos\bin\Debug\netcoreapp3.1\SistemaVotos.pdb
+C:\Users\lucas\source\repos\SistemaVotos\obj\Debug\netcoreapp3.1\SistemaVotos.csproj.AssemblyReference.cache
+C:\Users\lucas\source\repos\SistemaVotos\obj\Debug\netcoreapp3.1\SistemaVotos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\source\repos\SistemaVotos\obj\Debug\netcoreapp3.1\SistemaVotos.AssemblyInfoInputs.cache
+C:\Users\lucas\source\repos\SistemaVotos\obj\Debug\netcoreapp3.1\SistemaVotos.AssemblyInfo.cs
+C:\Users\lucas\source\repos\SistemaVotos\obj\Debug\netcoreapp3.1\SistemaVotos.csproj.CoreCompileInputs.cache
+C:\Users\lucas\source\repos\SistemaVotos\obj\Debug\netcoreapp3.1\SistemaVotos.dll
+C:\Users\lucas\source\repos\SistemaVotos\obj\Debug\netcoreapp3.1\SistemaVotos.pdb
+C:\Users\lucas\source\repos\SistemaVotos\obj\Debug\netcoreapp3.1\SistemaVotos.genruntimeconfig.cache
